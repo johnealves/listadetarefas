@@ -8,7 +8,7 @@ button {
 }
 
 .item-list {
-  width: 100px;
+  width: auto;
 }
 
 .completed {
